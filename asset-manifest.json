@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VISUALIZADOR_PDF_REACT_JS/static/css/main.fc37f6c3.chunk.css",
+    "main.js": "/VISUALIZADOR_PDF_REACT_JS/static/js/main.c442a87a.chunk.js",
+    "main.js.map": "/VISUALIZADOR_PDF_REACT_JS/static/js/main.c442a87a.chunk.js.map",
+    "runtime-main.js": "/VISUALIZADOR_PDF_REACT_JS/static/js/runtime-main.52f69aeb.js",
+    "runtime-main.js.map": "/VISUALIZADOR_PDF_REACT_JS/static/js/runtime-main.52f69aeb.js.map",
+    "static/css/2.b5e086e8.chunk.css": "/VISUALIZADOR_PDF_REACT_JS/static/css/2.b5e086e8.chunk.css",
+    "static/js/2.cc474627.chunk.js": "/VISUALIZADOR_PDF_REACT_JS/static/js/2.cc474627.chunk.js",
+    "static/js/2.cc474627.chunk.js.map": "/VISUALIZADOR_PDF_REACT_JS/static/js/2.cc474627.chunk.js.map",
+    "static/js/3.46118e77.chunk.js": "/VISUALIZADOR_PDF_REACT_JS/static/js/3.46118e77.chunk.js",
+    "static/js/3.46118e77.chunk.js.map": "/VISUALIZADOR_PDF_REACT_JS/static/js/3.46118e77.chunk.js.map",
+    "index.html": "/VISUALIZADOR_PDF_REACT_JS/index.html",
+    "static/css/2.b5e086e8.chunk.css.map": "/VISUALIZADOR_PDF_REACT_JS/static/css/2.b5e086e8.chunk.css.map",
+    "static/css/main.fc37f6c3.chunk.css.map": "/VISUALIZADOR_PDF_REACT_JS/static/css/main.fc37f6c3.chunk.css.map",
+    "static/js/2.cc474627.chunk.js.LICENSE.txt": "/VISUALIZADOR_PDF_REACT_JS/static/js/2.cc474627.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f69aeb.js",
+    "static/css/2.b5e086e8.chunk.css",
+    "static/js/2.cc474627.chunk.js",
+    "static/css/main.fc37f6c3.chunk.css",
+    "static/js/main.c442a87a.chunk.js"
+  ]
+}
