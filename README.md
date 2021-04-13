@@ -12,4 +12,4 @@
 ![visualizar-PDF](https://user-images.githubusercontent.com/71619972/114615643-8c0c9280-9c6b-11eb-8a85-3d21e3bf080a.PNG)
 
 
-Link de la aplicación: 
+Link de la aplicación: https://pedromanueljm.github.io/VISUALIZADOR_PDF_REACT_JS/
